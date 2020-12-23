@@ -2,7 +2,7 @@
 
 ## Linux VS Windows
 
-- [Why Linux is better than Windows?](./Linux-Features.md) by [Abanoub Assad](https://github.com/Abanoub-Asaad)
+- [Why Linux is better than Windows?](./Linux-Features.md) by [Abanoub Asaad](https://github.com/Abanoub-Asaad)
 
 ## Distributions Reviews
 
