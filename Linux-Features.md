@@ -1,4 +1,4 @@
-# Why is Linux better than Windows ?
+# Why Linux is better than Windows ?
 
 ![Penguins Always Wins](./images/linuxdrinkingwindows.jpg)
 
