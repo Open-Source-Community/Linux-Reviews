@@ -38,7 +38,7 @@ sudo apt install ubuntustudio-installer
 
 3. select the packages you want to install
 
-![image](./images/ubuntu-studio1.png)
+![image](./images/ubuntu-studio2.png)
 
 ## Visitors Rating on Distrowatch
 
