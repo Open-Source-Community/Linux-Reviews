@@ -2,6 +2,10 @@
 
 - REVIEW BY : [Thoraya Khaled](https://github.com/thoraiia)
 
+## Video based version of the review <b> in arabic </b> on youtube:
+
+[Arabic Review Video](https://bit.ly/3nQvwQM)
+
 ## What is Ubuntu-Studio?
 
 Ubuntu Studio is a free and open source operating system, and an official flavor of Ubuntu. Ubuntu Studio is the most widely used multimedia-orientated operating system in the world. It comes preinstalled with a selection of the most common free multimedia applications available, and is configured for best performance for various purposes: Audio, Graphics, Video, Photography and Publishing.
